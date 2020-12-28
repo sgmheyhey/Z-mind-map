@@ -1,0 +1,627 @@
+<?xml version="1.0"?>
+<minder>
+  <theme name="Dark" index="20"/>
+  <styles>
+    <style level="0" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="-691.60495194562668" y="-178.60808468315534" scale="0.7947434292866089"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="1451.7400990403542" posy="713.89589087619004" maxwidth="200" width="129" height="47" side="left" fold="false" treesize="845.99999999999932" layout="To left">
+      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename>Base-funtion</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="3" posx="1276.7400990403542" posy="314.39589087618936" maxwidth="200" width="75" height="47" side="left" fold="false" treesize="47" color="#c6262e" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>graph</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="5" posx="1234.7400990403537" posy="361.39589087618918" maxwidth="200" width="117" height="47" side="left" fold="false" treesize="47" color="#f37329" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>in-memory</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="7" posx="1234.7400990403537" posy="408.39589087618953" maxwidth="200" width="117" height="47" side="left" fold="false" treesize="47" color="#f9c440" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>time-series</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="112" posx="1227.7400990403542" posy="455.3958908761893" maxwidth="200" width="124" height="47" side="left" fold="false" treesize="47" color="#68b723" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>hot-standby</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="113" posx="1208.7400990403542" posy="502.3958908761893" maxwidth="200" width="143" height="47" side="left" fold="false" treesize="47" color="#68b723" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>warm-standby</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="11" posx="1233.7400990403542" posy="549.39589087618936" maxwidth="200" width="118" height="47" side="left" fold="false" treesize="47" color="#68b723" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>hot-backup</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="110" posx="1240.7400990403542" posy="596.39589087619004" maxwidth="200" width="111" height="47" side="left" fold="false" treesize="47" color="#3689e6" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>replication</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="115" posx="1250.7400990403542" posy="643.39589087619004" maxwidth="200" width="101" height="47" side="left" fold="false" treesize="47" color="#3689e6" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>scale-out</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="114" posx="1256.7400990403542" posy="690.39589087619004" maxwidth="200" width="95" height="47" side="left" fold="false" treesize="47" color="#3689e6" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>scale-up</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="9" posx="1269.7400990403542" posy="737.39589087619004" maxwidth="200" width="82" height="47" side="left" fold="false" treesize="47" color="#3689e6" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>cluster</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="13" posx="1196.7400990403555" posy="784.39589087619026" maxwidth="200" width="155" height="47" side="left" fold="false" treesize="47" color="#7a36b1" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>distributed-data</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="15" posx="1203.7400990403537" posy="831.39589087619004" maxwidth="200" width="148" height="47" side="left" fold="false" treesize="47" color="#7a36b1" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>user-pull-mode</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="17" posx="1193.7400990403537" posy="878.39589087619026" maxwidth="200" width="158" height="47" side="left" fold="false" treesize="47" color="#7a36b1" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>user-push-mode</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="19" posx="1242.7400990403542" posy="925.39589087619026" maxwidth="200" width="109" height="47" side="left" fold="false" treesize="47" color="#715344" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>document</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="21" posx="1221.7400990403546" posy="972.39589087618981" maxwidth="200" width="130" height="47" side="left" fold="false" treesize="47" color="#715344" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>wide-column</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="23" posx="1158.7400990403537" posy="1019.3958908761905" maxwidth="232.6400146484375" width="193" height="47" side="left" fold="false" treesize="47" color="#715344" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>key-value-structured</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="25" posx="1211.7400990403555" posy="1066.3958908761902" maxwidth="200" width="140" height="47" side="left" fold="false" treesize="47" color="#715344" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>log-structured</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="27" posx="1202.7400990403537" posy="1113.3958908761902" maxwidth="200" width="149" height="47" side="left" fold="false" treesize="47" color="#c6262e" layout="To left">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="pilled" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>full-text-search</nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="29" posx="444.82921036847836" posy="750.09879208061705" maxwidth="200" width="104" height="47" side="left" fold="false" treesize="1644.9999999999991" layout="Horizontal">
+      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename>Database</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="31" posx="247.82921036847847" posy="421.09879208061665" maxwidth="200" width="97" height="47" side="left" fold="false" treesize="47" color="#c6262e" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>NepTune</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="122" posx="242.82921036847836" posy="468.09879208061653" maxwidth="200" width="102" height="47" side="left" fold="false" treesize="47" color="#f37329" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>TimesTen</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="33" posx="215.82921036847847" posy="515.09879208061648" maxwidth="200" width="129" height="47" side="left" fold="false" treesize="47" color="#f9c440" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>ElasticCache</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="35" posx="221.82921036847858" posy="562.09879208061636" maxwidth="200" width="123" height="47" side="left" fold="false" treesize="47" color="#ffff00" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Timestream</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="37" posx="187.82921036847836" posy="609.09879208061659" maxwidth="200" width="157" height="47" side="left" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>OracleDatabase</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="121" posx="276.82921036847836" posy="656.09879208061659" maxwidth="200" width="68" height="47" side="left" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>PPAS</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="39" posx="283.82921036847847" posy="703.09879208061659" maxwidth="200" width="61" height="47" side="left" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>RDS</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="41" posx="230.82921036847858" posy="750.09879208061659" maxwidth="200" width="114" height="47" side="left" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>SQLServer</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="43" posx="284.82921036847847" posy="797.09879208061659" maxwidth="200" width="60" height="47" side="left" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Db2</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="45" posx="249.82921036847847" posy="844.09879208061636" maxwidth="200" width="95" height="47" side="left" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Informix</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="47" posx="249.82921036847847" posy="891.09879208061659" maxwidth="200" width="95" height="47" side="left" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Spanner</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="49" posx="250.82921036847847" posy="938.09879208061682" maxwidth="200" width="94" height="47" side="left" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>BigTable</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="51" posx="241.82921036847847" posy="985.09879208061773" maxwidth="200" width="103" height="47" side="left" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>BigQuery</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="53" posx="225.82921036847847" posy="1032.0987920806174" maxwidth="200" width="119" height="47" side="left" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>DynamoDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="118" posx="248.82921036847836" posy="1079.0987920806174" maxwidth="200" width="96" height="47" side="left" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>FIrebase</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="127" posx="648.82921036847836" posy="-48.901207919383495" maxwidth="200" width="122" height="47" side="right" fold="false" treesize="47.000000000000007" color="#c6262e" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>TerminusDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="55" posx="648.82921036847824" posy="-1.901207919383495" maxwidth="200" width="74" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Neo4j</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="57" posx="648.82921036847824" posy="45.098792080616505" maxwidth="200" width="101" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>OrientDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="59" posx="648.82921036847824" posy="92.098792080616505" maxwidth="200" width="70" height="47" side="right" fold="false" treesize="47" color="#f37329" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Redis</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="61" posx="648.82921036847824" posy="139.09879208061651" maxwidth="200" width="126" height="47" side="right" fold="false" treesize="47" color="#f37329" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Memcached</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="63" posx="648.82921036847824" posy="186.09879208061648" maxwidth="200" width="131" height="47" side="right" fold="false" treesize="47" color="#ffff00" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>TimescaleDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="65" posx="648.8292103684787" posy="233.09879208061648" maxwidth="200" width="109" height="47" side="right" fold="false" treesize="47" color="#ffff00" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Machbase</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="69" posx="648.82921036847824" posy="280.09879208061659" maxwidth="200" width="119" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>PostgreSQL</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="71" posx="648.82921036847824" posy="327.09879208061648" maxwidth="200" width="96" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>MariaDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="67" posx="648.82921036847824" posy="374.09879208061653" maxwidth="200" width="84" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>MySQL</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="73" posx="648.8292103684787" posy="421.09879208061665" maxwidth="200" width="80" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>SQLite</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="116" posx="648.82921036847824" posy="468.09879208061653" maxwidth="200" width="65" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>MDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="117" posx="648.82921036847824" posy="515.09879208061648" maxwidth="200" width="62" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>BDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="119" posx="648.82921036847824" posy="562.09879208061659" maxwidth="200" width="78" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Realm</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="123" posx="648.82921036847824" posy="609.09879208061682" maxwidth="200" width="50" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>H2</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="124" posx="648.82921036847824" posy="656.09879208061705" maxwidth="200" width="73" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>CRDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="109" posx="648.82921036847824" posy="703.09879208061705" maxwidth="200" width="64" height="47" side="right" fold="false" treesize="47" color="#bbbbbb" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>TiDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="75" posx="648.8292103684787" posy="750.09879208061705" maxwidth="200" width="96" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>InfluxDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="77" posx="648.8292103684787" posy="797.09879208061705" maxwidth="200" width="123" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Prometheus</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="79" posx="648.82921036847824" posy="844.09879208061682" maxwidth="200" width="98" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Graphite</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="81" posx="648.82921036847824" posy="891.09879208061705" maxwidth="200" width="71" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Druid</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="83" posx="648.8292103684787" posy="938.09879208061727" maxwidth="200" width="105" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>MongoDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="125" posx="648.82921036847824" posy="985.09879208061727" maxwidth="200" width="81" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Pebble</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="85" posx="648.8292103684787" posy="1032.0987920806178" maxwidth="200" width="97" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>RocksDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="87" posx="648.8292103684787" posy="1079.0987920806174" maxwidth="200" width="94" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>LevelDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="89" posx="648.8292103684787" posy="1126.0987920806178" maxwidth="200" width="73" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Ignite</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="91" posx="648.8292103684787" posy="1173.0987920806178" maxwidth="200" width="64" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Hive</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="93" posx="648.8292103684787" posy="1220.0987920806183" maxwidth="200" width="59" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Drill</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="95" posx="648.8292103684787" posy="1267.0987920806169" maxwidth="200" width="92" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Phoenix</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="97" posx="648.8292103684787" posy="1314.0987920806169" maxwidth="200" width="112" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Cassandra</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="99" posx="648.8292103684787" posy="1361.0987920806165" maxwidth="200" width="79" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>HBase</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="101" posx="648.8292103684787" posy="1408.098792080616" maxwidth="200" width="101" height="47" side="right" fold="false" treesize="47" color="#715344" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>CouchDB</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="103" posx="648.82921036847824" posy="1455.098792080616" maxwidth="200" width="132" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Elasticsearch</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="105" posx="648.82921036847824" posy="1502.0987920806165" maxwidth="200" width="59" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Solr</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="108" posx="648.82921036847824" posy="1549.0987920806165" maxwidth="200" width="86" height="47" side="right" fold="false" treesize="47" color="#c6262e" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename>Lucene</nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="107" posx="815.85429834553247" posy="1434.2337482160328" maxwidth="801.8347345444663" width="671" height="47" side="left" fold="false" treesize="47" layout="To left">
+      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename>You might prefer to check https://dbdb.io/ and https://db-engines.com/en/ranking</nodename>
+      <nodenote></nodenote>
+    </node>
+  </nodes>
+  <connections>
+    <connection from_id="53" to_id="13" drag_x="791.28465470441643" drag_y="931.74734147840695" color="rgb(173,127,168)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="31" to_id="3" drag_x="805.28465470441733" drag_y="391.24734147840752" color="rgb(239,41,41)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="35" to_id="7" drag_x="788.28465470441688" drag_y="508.74734147841025" color="rgb(252,233,79)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="33" to_id="5" drag_x="786.78465470441552" drag_y="461.7473414784082" color="rgb(252,175,62)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="49" to_id="25" drag_x="806.53465470441415" drag_y="1025.7473414784045" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="63" to_id="7" drag_x="1003.7846547044181" drag_y="320.74734147840536" color="rgb(252,233,79)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="65" to_id="7" drag_x="998.28465470441779" drag_y="344.24734147840707" color="rgb(252,233,79)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="55" to_id="3" drag_x="1000.0346547044178" drag_y="179.74734147840502" color="rgb(239,41,41)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="57" to_id="3" drag_x="1006.7846547044168" drag_y="203.24734147840493" color="rgb(239,41,41)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="53" to_id="23" drag_x="787.03465470441643" drag_y="1049.2473414784013" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="87" to_id="25" drag_x="1005.5346547044172" drag_y="1096.2473414783999" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="103" to_id="27" drag_x="996.03465470441688" drag_y="1307.7473414783876" color="rgb(239,41,41)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="105" to_id="27" drag_x="977.78465470441824" drag_y="1331.2473414783917" color="rgb(239,41,41)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="75" to_id="17" drag_x="984.78465470441824" drag_y="837.74734147839717" color="rgb(173,127,168)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="77" to_id="15" drag_x="994.03465470441733" drag_y="837.74734147839808" color="rgb(173,127,168)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="83" to_id="19" drag_x="871.28465470441893" drag_y="919.99734147840195" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="101" to_id="19" drag_x="869.78465470441893" drag_y="1154.9973414783913" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="99" to_id="21" drag_x="999.03465470441552" drag_y="1190.2473414783867" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="59" to_id="23" drag_x="985.28465470441552" drag_y="579.24734147840354" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="97" to_id="21" drag_x="1007.2846547044153" drag_y="1166.7473414783922" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="51" to_id="93" drag_x="485.82921036847961" drag_y="1126.0987920806156" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="49" to_id="99" drag_x="493.07921036847961" drag_y="1173.0987920806037" color="rgb(64,64,64)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="49" to_id="21" drag_x="803.78465470441688" drag_y="978.74734147840422" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="97" to_id="21" drag_x="1006.7846547044163" drag_y="1166.7473414783917" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="53" to_id="21" drag_x="797.53465470441643" drag_y="1025.747341478404" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="81" to_id="7" drag_x="988.78465470441552" drag_y="673.24734147840354" color="rgb(252,233,79)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="79" to_id="7" drag_x="995.53465470441506" drag_y="649.74734147840309" color="rgb(252,233,79)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="93" to_id="19" drag_x="859.28465470441711" drag_y="1060.9973414784013" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="75" to_id="11" drag_x="1012.5346547044154" drag_y="673.24734147840286" color="rgb(138,226,52)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="85" to_id="11" drag_x="1012.7846547044154" drag_y="814.24734147840309" color="rgb(138,226,52)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="97" to_id="5" drag_x="999.03465470441552" drag_y="861.24734147840422" color="rgb(252,175,62)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="83" to_id="5" drag_x="997.78465470441552" drag_y="673.24734147840309" color="rgb(252,175,62)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="59" to_id="5" drag_x="987.53465470441506" drag_y="250.24734147840377" color="rgb(252,175,62)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="61" to_id="5" drag_x="1002.5346547044154" drag_y="273.7473414784032" color="rgb(252,175,62)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="61" to_id="23" drag_x="983.53465470441552" drag_y="602.74734147840309" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="67" to_id="11" drag_x="991.78465470441597" drag_y="485.24734147840343" color="rgb(138,226,52)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="67" to_id="5" drag_x="992.03465470441552" drag_y="391.2473414784032" color="rgb(252,175,62)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="67" to_id="110" drag_x="993.53465470441643" drag_y="508.74734147840343" color="rgb(114,159,207)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="69" to_id="112" drag_x="999.03465470441461" drag_y="391.24734147840229" color="rgb(138,226,52)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="67" to_id="112" drag_x="990.28465470441643" drag_y="438.24734147840263" color="rgb(138,226,52)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="63" to_id="112" drag_x="1002.0346547044163" drag_y="344.24734147840388" color="rgb(138,226,52)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="47" to_id="109" drag_x="489.07921036847847" drag_y="820.59879208061693" color="rgb(136,138,133)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="124" to_id="13" drag_x="991.28465470441733" drag_y="743.74734147840377" color="rgb(173,127,168)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="47" to_id="124" drag_x="491.32921036847847" drag_y="797.09879208061693" color="rgb(136,138,133)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="125" to_id="23" drag_x="972.28465470441688" drag_y="1025.7473414784035" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="85" to_id="23" drag_x="976.28465470441688" drag_y="1049.2473414784026" color="rgb(64,64,64)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="85" to_id="25" drag_x="989.53465470441779" drag_y="1072.7473414784015" color="rgb(233,185,110)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="75" to_id="7" drag_x="995.03465470441688" drag_y="602.74734147840422" color="rgb(252,175,62)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="127" to_id="3" drag_x="1012.034654704416" drag_y="156.2473414784028" color="rgb(239,41,41)">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+  </connections>
+</minder>
